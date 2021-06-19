@@ -1,4 +1,4 @@
-# Modyfikacja kontrastu obrazu barwnego
+# Modyfikacja kontrastu obrazu barwnego. Wykresy histogramu dla składowej R, G i B.
 
 Zdjecie przed kompilacją
 
