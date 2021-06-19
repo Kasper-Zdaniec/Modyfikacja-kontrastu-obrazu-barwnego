@@ -6,5 +6,5 @@ Zdjecie przed kompilacją
 
 Zdjecie po kompilacji
 
-![Po_kompilacji](https://user-images.githubusercontent.com/79860696/122641902-5cb15080-d108-11eb-9ff0-c12570d242e7.jpg)
+![Po_kompilacji](https://user-images.githubusercontent.com/79860696/122642186-72734580-d109-11eb-9369-d8a3dbb005c5.jpg)
 
